@@ -1,0 +1,15 @@
+D:\Develop\soutěž-programování\Bumbác\Bumbác\bin\Debug\net6.0\Bumbác.exe
+D:\Develop\soutěž-programování\Bumbác\Bumbác\bin\Debug\net6.0\Bumbác.deps.json
+D:\Develop\soutěž-programování\Bumbác\Bumbác\bin\Debug\net6.0\Bumbác.runtimeconfig.json
+D:\Develop\soutěž-programování\Bumbác\Bumbác\bin\Debug\net6.0\Bumbác.dll
+D:\Develop\soutěž-programování\Bumbác\Bumbác\bin\Debug\net6.0\Bumbác.pdb
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.csproj.AssemblyReference.cache
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.AssemblyInfoInputs.cache
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.AssemblyInfo.cs
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.csproj.CoreCompileInputs.cache
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.dll
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\refint\Bumbác.dll
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.pdb
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\Bumbác.genruntimeconfig.cache
+D:\Develop\soutěž-programování\Bumbác\Bumbác\obj\Debug\net6.0\ref\Bumbác.dll
